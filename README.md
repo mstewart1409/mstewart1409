@@ -7,7 +7,7 @@
     </a>
   </div>
   <div id="profile">
-    <img src="https://komarev.com/ghpvc/?username=mstewart1409&style=flat-square&color=blue&base=476" alt=""/>
+    <img src="https://komarev.com/ghpvc/?username=mstewart1409&style=flat-square&color=blue" alt=""/>
   </div>
 <h1>
   hey there
